@@ -7,16 +7,16 @@ Usuario: admin@example.com
 
 Password: password
 
-Crontab:
+Crontab
 
 */5 * * * *
 
 Cada 5 minutos
 
 
-Cron tabla:
+Cron tabla
 
-'* * * * *' Cada minuto
+* * * * * Cada minuto
  
 0 * * * *	Cada hora
 
