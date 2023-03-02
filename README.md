@@ -11,8 +11,8 @@ Crontab
 
 */5 * * * *  Cada 5 minutos
 
-0 * * * *	  Cada hora
+0 * * * *	   Cada hora
 
-0 0 * * *  	Cada día a las 12:00 AM
+0 0 * * *    Cada día a las 12:00 AM
 
 
