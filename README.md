@@ -16,7 +16,7 @@ Cada 5 minutos
 
 Cron tabla:
 
-* * * * *	Cada minuto
+* * * * * Cada minuto
  
 0 * * * *	Cada hora
 
