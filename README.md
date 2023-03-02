@@ -7,7 +7,7 @@ Usuario: admin@example.com
 
 Password: password
 
-Crontab
+Crontab:
 
 */5 * * * *  Cada 5 minutos
 
