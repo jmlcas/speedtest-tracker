@@ -9,15 +9,12 @@ Password: password
 
 Crontab
 
-*/5 * * * *
+*/5 * * * *  Cada 5 minutos
 
-Cada 5 minutos
+* * * * * 	   Cada 5 minuto
 
+0 * * * *	  Cada hora
 
-Cron tabla
- 
-0 * * * *	Cada hora
-
-0 0 * * *	Cada día a las 12:00 AM
+0 0 * * *  	Cada día a las 12:00 AM
 
 
