@@ -11,7 +11,9 @@ services:
     environment:
       - PUID=1000
       - PGID=1000
+      - TZ=Europe/Madrid      
     volumes:
+      - /etc/localtime:/etc/localtime:ro    
       - './config:/config'
     restart: unless-stopped
 
